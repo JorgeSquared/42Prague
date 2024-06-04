@@ -28,4 +28,13 @@ This was the "symbolic" way of changing accessibility. The other way to solve th
 ```
 You got it? Will experiment with it further?
 
-
+## Did you know
+- You can make a `.tar` archive from multiple files using the command
+```bash
+tar -cf archive_name.tar file1 file2 directory1 ...
+```
+like for example
+```bash
+tar -cf backup.tar /home/user/Documents
+```
+- The `.tar` comes from "tape archive" and it has something to do with the old magnetic tapes that used to store data in prehistory...
